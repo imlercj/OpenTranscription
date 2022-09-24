@@ -1,0 +1,6 @@
+pydub
+pyaudio
+simpleaudio
+wave
+
+pip install git+https://github.com/openai/whisper.git 
